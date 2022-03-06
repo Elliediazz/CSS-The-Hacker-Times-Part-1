@@ -24,6 +24,9 @@ nav{
     padding: .25em;
     margin: 1em 2em 0em 1em;
     text-align: center;
+    position: sticky;
+    top: 0;
+    background: white;
 }
 nav ul{
     list-style-type: none;
